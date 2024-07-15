@@ -1,0 +1,15 @@
+:root {
+    --cor-background: #f9f9f9;
+    --con-header: linear-gradient(45deg, #0c7727,#118b2f, #11ac38, #4bc569, #8fca9e);
+    --cor-de-first-gradient: linear-gradient(135deg,   #0c7727 0%, #118b2f 15%, #11ac38 50%, #4bc569 90%, #8fca9e 100%);
+    --cor-de-second-gradient: linear-gradient(135deg,  #0c7727 0%, #118b2f 0%, #11ac38 50%, #4bc569 90%, #8fca9e 100%);
+    --cor-de-third-gradient: linear-gradient(135deg, #ffc0cb 0%,   #ff94a6 0%, #ff2348 15%, #ff002b 50%, #d70024 90%, #b10320 100%);
+    --cor-de-fourth-gradient: linear-gradient(135deg,  #b10320 0%, #d70024 0%, #ff002b 50%, #ff2348 90%, #ff94a6 100%);
+    --cor-de-second-text: #FFFFFF;
+    --cor-text-border: #0c7727;
+    --cor-de-third-text: #FF0000;
+    --cor-de-text-form:#6f6e6e;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    --font-family: 'Arial, sans-serif';
+    --font-title: 'Press Start 2P', sans-serif;
+}

@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Monitor Gamer 27'' UltraGear - Full HD, Panel IPS, 144Hz(1ms), G-Sync y FreeSync Premium, HDR10",
+      "price": "189.990",
+      "image": "https://www.ropere.com/static/product/photo/c81f1182-3b9b-41eb-a7fc-7818e5d47838--1200.webp",
+      "id": "1"
+    },
+    {
+      "name": "Tablet Galaxy TabS9 Ultra 14,6'' 12GB 256GB WiFi Octa Core Android Graphite",
+      "price": "897.190",
+      "image": "https://assets.pcfactory.cl/public/foto/50315/1_500.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Smartphone Galaxy S23 Ultra 5G 256Gb Lila",
+      "price": "1.049.990",
+      "image": "https://images.lider.cl/wmtcl?source=url[file:/productos/4427737a.jpg]&scale=size[2000x2000]&sink",
+      "id": "5"
+    },
+    {
+      "name": "Audífonos Bluetooth Noise Cancelling WH-1000XM5",
+      "price": "289.990",
+      "image": "https://assets.pcfactory.cl/public/foto/47938/1_500.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Notebook Ideapad Slim 5 Intel Core i7-13620H 16.0'' WUXGA IPS 16GB 512GB 6IRL8",
+      "price": "649.990",
+      "image": "https://assets.pcfactory.cl/public/foto/48263/1_500.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Monitor Gamer MSI G2712F 27'' FHD 1920*1080 Ultra IPS DP HDMI 180Hz 1ms",
+      "price": "134.490",
+      "image": "https://res.cloudinary.com/djx6viedj/image/upload/t_trimmed_square_512/tf34izhc3edbpv69hbdzdgtxa83t?_a=BACCd2Ev",
+      "id": "9"
+    },
+    {
+      "name": "Notebook ASUS TUF Gaming F15 Intel Core i7-13620H NVIDIA GeForce RTX 4060 8GB 15.6'' FHD 144Hz RAM 16GB 512 SSD Mecha Gray FX507VV-LP139W",
+      "price": "1.212.490",
+      "image": "https://assets.pcfactory.cl/public/foto/51724/1_500.jpg",
+      "id": "10"
+    },
+    {
+      "name": "Kit Gamer Teclado + Mouse + Mouse Pad Y Audífonos Fiddler Z",
+      "price": "17.990",
+      "image": "https://www.paris.cl/on/demandware.static/-/Sites-paris-marketplace/default/dwa79bd5f0/images/imagenes-productos/800/MK36/MK36O2Q9WJ-0961-001.jpg",
+      "id": "11"
+    },
+    {
+      "name": "Kit Gamer Redragon 2 en 1 Teclado Harpe Mouse Centophorus",
+      "price": "26.990",
+      "image": "https://www.paris.cl/on/demandware.static/-/Sites-paris-marketplace/default/dwfc40c6bd/images/imagenes-productos/800/MK7M/MK7M38QJHE-0001-000.png",
+      "id": "12"
+    }
+  ]
+}
